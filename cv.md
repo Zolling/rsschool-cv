@@ -7,7 +7,7 @@ Maria Sherminskaya
 #### Contact information:
 
 - Phone: +7-912-591-11-85
-- Email: sherminskaya@gmail.com
+- Email: <sherminskaya@gmail.com>
 - Telegramm: @Zollin
 
 ***
@@ -18,10 +18,12 @@ Very responsible and punctual, stress resistant person. I'm able work hard for a
 ***
 
 ### Skills:
-HTML
-CSS
-Javascript
-Git
+HTML (basic)
+CSS (basic)
+Javascript (basic)
+Git (basic)
+Python (basic)
+MySQL (basic)
 
 ### Experience
 Graduated medical academy at 2013 and worked as nephrologist in different cities of Sverdlovskaya Oblast until 2017.
