@@ -68,7 +68,7 @@ Since 2021 on maternity leave.
 
 ***
 
-### Lenguages:
+### Languages:
 
 Russian - native  
 English - intermediate (in progress)  
