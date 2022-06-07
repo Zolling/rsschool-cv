@@ -70,7 +70,7 @@ Since 2021 on maternity leave.
 
 ### Lenguages:
 
-Russian - native
-English - intermediate (in progress)
-Swedish - elementary
+Russian - native  
+English - intermediate (in progress)  
+Swedish - elementary  
 
