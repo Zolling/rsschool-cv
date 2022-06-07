@@ -55,21 +55,22 @@ MySQL (basic)
 ### Experience:
 
 Graduated medical academy at 2013 and worked as nephrologist in different cities of Sverdlovskaya Oblast until 2017.
-Since 2017 vise of hospital chief in dialysis center in Perm (near 60 subordinate employess).
+Since 2017 deputy сhief physician in dialysis center in Perm (near 60 subordinate employess).
 Since 2021 on maternity leave.
 
 ***
 
 ### Education:
 
-Izhevsk State Medical Academy 2012
-QA Engeneer (Innopolis 2021)
+- Izhevsk State Medical Academy 2012
+- QA Engeneer (Innopolis 2021)
+- MySQL course on Stepik.org (2021)
 
 ***
 
 ### Lenguages:
-Russian - native
-English - advanced (in progress) 
-(to be honest, it's intermediate 😊)
 
+Russian - native
+English - intermediate (in progress)
+Swedish - elementary
 
